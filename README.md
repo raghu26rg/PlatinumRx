@@ -1,6 +1,10 @@
 # Data Analyst Assignment - SQL, Python, and Spreadsheet Solutions
 
+**Public showcase:** after you enable GitHub Pages (see below), the site will be at **[https://raghu26rg.github.io/PlatinumRx/](https://raghu26rg.github.io/PlatinumRx/)**. Repository: [github.com/raghu26rg/PlatinumRx](https://github.com/raghu26rg/PlatinumRx).
+
 This repository contains a complete, interview-ready Data Analyst assignment solution across SQL, Python, and Excel-focused logic documentation.
+
+**Enable the showcase URL once:** GitHub repo → **Settings** → **Pages** → Build and deployment → **Source:** Deploy from a branch → Branch **main** → Folder **`/docs`** → Save.
 
 ## Project Overview
 
